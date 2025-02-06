@@ -43,7 +43,7 @@ The application will focus **only on these cities** for recommendations.
   - **Hotel Name**
   - **URL to Booking.com page**
   - **Latitude & Longitude**
-  - **User Score & Reviews**
+  - **Ratings
   - **Hotel Description**
 
 ### 🔹 Store Data in a Data Lake (AWS S3)
