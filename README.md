@@ -80,7 +80,7 @@ The application will focus **only on these cities** for recommendations.
 
 ---
 
-## 📌 Next Steps
+## 📌 Future developpement 
 - Implement data collection scripts (scraping & API calls)
 - Store data in **AWS S3**
 - Build **ETL pipeline** to clean and move data to **AWS RDS**
