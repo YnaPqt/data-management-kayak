@@ -65,7 +65,12 @@ The application will focus **only on these cities** for recommendations.
 2. **A SQL Database** (AWS RDS) containing cleaned data extracted from S3.
 3. **Two interactive maps**:
    - **Top-5 recommended travel destinations**
+  
+     ![image](https://github.com/user-attachments/assets/c1f129dd-c3f3-4e78-a8a9-6c3589c69834)
+
    - **Top-20 best hotels**
+     ![image](https://github.com/user-attachments/assets/39818902-306a-4864-adc0-88ddc6d0d68f)
+
 
 ---
 
