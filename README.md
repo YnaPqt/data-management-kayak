@@ -69,7 +69,7 @@ The application will focus **only on these cities** for recommendations.
      ![image](https://github.com/user-attachments/assets/c1f129dd-c3f3-4e78-a8a9-6c3589c69834)
 
    - **Top-20 best hotels**
-     ![Uploading image.png…]()
+     ![image](https://github.com/user-attachments/assets/39818902-306a-4864-adc0-88ddc6d0d68f)
 
 
 ---
