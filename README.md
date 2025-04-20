@@ -55,7 +55,7 @@ The application will focus **only on these cities** for recommendations.
 ### 🔹 Visualize Data
 - Use **Plotly** (or other visualization libraries) to create interactive maps:
   - **Top-5 recommended destinations** based on weather and hotel ratings.
-![alt text](image.png)
+![alt text](image-6.png)
   
   - **Top-20 best hotels** in the selected areas.
 ![alt text](image-1.png)
