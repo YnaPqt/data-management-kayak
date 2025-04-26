@@ -55,15 +55,8 @@ The application will focus **only on these cities** for recommendations.
 ### 🔹 Visualize Data
 - Use **Plotly** (or other visualization libraries) to create interactive maps:
   - **Top-5 recommended destinations** based on weather and hotel ratings.
-![alt text](image-6.png)
   
   - **Top-20 best hotels** in the selected areas.
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
----
 
 ## 📬 Deliverables
 
@@ -92,4 +85,16 @@ The application will focus **only on these cities** for recommendations.
 - Build **ETL pipeline** to clean and move data to **AWS RDS**
 - Develop visualization dashboards for **destination & hotel recommendations**
 - Deploy the final **recommendation system**
+
+## Key Findings
+
+  - **Top-5 recommended destinations** based on weather and hotel ratings.
+![alt text](image-6.png)
+
+  - **Top-20 best hotels** in the selected areas.
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
