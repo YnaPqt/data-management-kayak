@@ -1,0 +1,651 @@
+,city,hotel_name,rating,latitude,longitude,avg_temp
+0,Aix en Provence,Aix Rooftop Appartement Luxe T2 - hypercentre Rotonde - Terrasse - Vue - Parking,9.0,43.525150629426,5.443194759525,9.0
+1,Aix en Provence,Aparthotel Adagio Aix-en-Provence Centre,8.4,43.52890621393209,5.440869033336639,8.4
+2,Aix en Provence,"Appartement chic, hyper centre",8.7,43.5284133,5.4524977,8.7
+3,Aix en Provence,Aquabella Hôtel & Spa,8.6,43.53126359885809,5.445070043206215,8.6
+4,Aix en Provence,B&B Villa Roumanille,9.0,43.51783611413024,5.442835092544556,9.0
+5,Aix en Provence,Bed and Breakfast Jardin de Marie,9.1,43.52490233162744,5.450541079044342,9.1
+6,Aix en Provence,Casa Hotel,8.0,43.527418652925085,5.441657311708809,8.0
+7,Aix en Provence,Domaine de Carraire,8.8,43.5660625,5.3844477,8.8
+8,Aix en Provence,Grand Hôtel Roi René Aix en Provence Centre - MGallery,8.4,43.52332474147478,5.449725687503815,8.4
+9,Aix en Provence,HOTEL RESTAURANT OLYMPE,7.7,43.508036,5.439455,7.7
+10,Aix en Provence,Hote-Aix-Centre-garage-piscine,9.1,43.51664446486407,5.441803332354751,9.1
+11,Aix en Provence,Hotel Cardinal,8.6,43.5255987,5.45172079999998,8.6
+12,Aix en Provence,Hôtel Cézanne Boutique-Hôtel,8.7,43.52356201318332,5.445937067270279,8.7
+13,Aix en Provence,Hôtel Escaletto,8.5,43.53004967137571,5.444146692752838,8.5
+14,Aix en Provence,Hôtel Le Mozart,8.4,43.5219176232722,5.457871556282044,8.4
+15,Aix en Provence,Hôtel Paul,8.5,43.53336324193778,5.446056425571442,8.5
+16,Aix en Provence,Hôtel Rotonde,8.1,43.52391013965681,5.442494451999664,8.1
+17,Aix en Provence,Hôtel des Augustins,8.3,43.526886636225456,5.447271466255188,8.3
+18,Aix en Provence,La Caravelle,8.4,43.52485921168219,5.4537007212638855,8.4
+19,Aix en Provence,La Suite Albertas,8.1,43.527418,5.447695,8.1
+20,Aix en Provence,Le Concorde,7.8,43.524612221014486,5.453754365444183,7.8
+21,Aix en Provence,Negrecoste Hôtel & Spa,8.3,43.52684968617195,5.449010878801346,8.3
+22,Aix en Provence,Odalys City Aix en Provence Les Floridianes,8.0,43.52133317821472,5.444777011871338,8.0
+23,Aix en Provence,Séjours & Affaires Aix-en-Provence Mirabeau,7.8,43.525240781127486,5.441266000270844,7.8
+24,Aix en Provence,thecamp Hôtel & Lodges - Aix en Provence,8.3,43.496316,5.3421520000000005,8.3
+25,Amiens,Appartement Les Jardins de Jules Verne - Côté Jardin,9.2,49.8860539,2.2902209,9.2
+26,Amiens,B&B HOTEL Amiens Centre Cathédrale,8.2,49.891999,2.291969999999992,8.2
+27,Amiens,Chez Victor H,8.2,49.892289399306,2.302585711836,8.2
+28,Amiens,DOWNTOWN COCOON - CENTRE VILLE - WiFi - NETFLIX,9.3,49.89225954723,2.294662871164,9.3
+29,Amiens,Escale bohème - Terrasse en centre-ville,8.6,49.886286,2.3062299,8.6
+30,Amiens,GreenStation-Gare-Centre Ville-Hortillonnages-WIFI,9.3,49.892892537820735,2.3103760752005265,9.3
+31,Amiens,Holiday Inn Express Amiens by IHG,8.0,49.89167619790575,2.30775386095047,8.0
+32,Amiens,Hotel Le Prieuré et La Résidence,8.4,49.894445193999786,2.3009423911571503,8.4
+33,Amiens,L Amiens Haussmann-Gare-Centre-ville Hortillonnages-WIFI,9.3,49.8928126,2.3104514,9.3
+34,Amiens,L'Escapade des Privilégiés,9.3,49.8831698,2.298902,9.3
+35,Amiens,L'emeraude avec salle de sport,5.2,49.885523,2.2943646,5.2
+36,Amiens,LA BERGE,9.2,49.8961025,2.3107899,9.2
+37,Amiens,LES PERLES AMIENOISES GOLD PEARL Hyper Centre,9.6,49.8925625,2.3052844,9.6
+38,Amiens,Le Nid - Studio in Hypercentre - Cathédrale,9.0,49.8933102,2.3041545,9.0
+39,Amiens,Les Hortensias Blancs Studio,9.2,49.8961405,2.3007116,9.2
+40,Amiens,Maison Longuevie,9.4,49.887694,2.294524,9.4
+41,Amiens,Mercure Amiens Cathédrale,8.2,49.89571084445366,2.299562394618988,8.2
+42,Amiens,Moxy Amiens,8.4,49.891249,2.30953,8.4
+43,Amiens,Nemea Appart Hotel Coliseum Amiens Centre,8.5,49.8921749,2.2889352,8.5
+44,Amiens,Odalys City Amiens Blamont,7.8,49.887148417540544,2.3116109042991866,7.8
+45,Amiens,Plein centre- 90m Cathédrale - 2ch - 3 lits,9.7,49.8947525,2.2999821,9.7
+46,Amiens,Soleil Levant - T2 avec terrasse proche gare&centre,8.6,49.886286,2.3062299,8.6
+47,Amiens,"Une maison en ville, Hyper Centre ville, Spa",8.8,49.889702,2.29843919999996,8.8
+48,Amiens,ibis Styles Amiens Centre,8.5,49.891422,2.304996,8.5
+49,Amiens,ibis budget Amiens Centre Gare,8.0,49.891591,2.313573,8.0
+50,Annecy,ALPES Annecy Rent Lodge,8.7,45.8990746,6.1281462,8.7
+51,Annecy,ALTAI Annecy Rent Lodge,8.7,45.900898,6.1267063,8.7
+52,Annecy,Allobroges Park Hôtel,8.9,45.90218660575059,6.123805046081543,8.9
+53,Annecy,Appart Hotel Neostelia,9.0,45.912613103044,6.1170846711639,9.0
+54,Annecy,Atipik Hôtel,8.3,45.90122721128739,6.125073730945587,8.3
+55,Annecy,Auberge du Lyonnais,8.8,45.899053,6.124137,8.8
+56,Annecy,Folk Loft,9.0,45.8981333,6.12401130000001,9.0
+57,Annecy,HUDSON HIGHLANDS Annecy Rent Lodge,7.6,45.9011618,6.1237246,7.6
+58,Annecy,Hotel Les Terrasses,8.7,45.90393736458728,6.119993627071381,8.7
+59,Annecy,Hôtel Les Muses,7.9,45.9061192031712,6.15546584129333,7.9
+60,Annecy,Hôtel de Bonlieu,8.4,45.90349688035514,6.128477454185486,8.4
+61,Annecy,Hôtel des Alpes,8.4,45.90163038296463,6.122925281524658,8.4
+62,Annecy,Hôtel du Nord,8.6,45.90205968292101,6.124647259712219,8.6
+63,Annecy,Hôtel du Palais de l'Isle,8.0,45.89819586381138,6.127482354640961,8.0
+64,Annecy,Icône Hôtel - Annecy,7.6,45.89714928882797,6.122658848653373,7.6
+65,Annecy,Le Bel Abri,8.3,45.9054286568824,6.15925983313525,8.3
+66,Annecy,Le Boutik Hotel,8.3,45.89771606659,6.13013094662711,8.3
+67,Annecy,"Le Pura Vida, Hyper centre Terrasse + Parking",8.9,45.9026461,6.1248328,8.9
+68,Annecy,Le Pélican,8.8,45.897015,6.131543,8.8
+69,Annecy,Le Splendid Hotel Lac D'Annecy - Handwritten Collection,8.7,45.900678445133416,6.127447485923767,8.7
+70,Annecy,Les Quais d'Annecy,8.1,45.9011213911173,6.11908832516588,8.1
+71,Annecy,Lodges du Canal St-Dominique,8.8,45.899971,6.126298,8.8
+72,Annecy,OURAL Annecy Rent Lodge,8.4,45.8990746,6.1281462,8.4
+73,Annecy,Superb Studio In The Center Of Annecy,6.1,45.900267,6.121996,6.1
+74,Annecy,View Point City,8.3,45.894649306131,6.1312773251312,8.3
+75,Ariege,AUX 4 LOGIS Appart-hotel - Studio Le Roof - Une vue splendide - Petit déjeuner inclus 1ère nuit,8.8,42.9681599,1.6083351,8.8
+76,Ariege,AUX 4 LOGIS Appart-hotel - Studio Le Terra - Petit déjeuner inclus 1ère nuit,9.0,42.968143122502,1.6083692723,9.0
+77,Ariege,Brit Hotel Confort Foix,8.2,43.00523949646403,1.6147595643997192,8.2
+78,Ariege,Camping Le Castella,8.6,42.7590836205981,1.7636721539672635,8.6
+79,Ariege,Chalet Pyrénéen,7.8,43.221838,1.3976962,7.8
+80,Ariege,Chaletdesilles MAYOTTE IIIII,9.7,43.040402889276,1.029170647113,9.7
+81,Ariege,Chambre d'Hôtes La Bourdasse,9.5,43.0317313636535,1.5558797121047974,9.5
+82,Ariege,Chambres d'hôtes Belle Occitane,9.2,42.84718520338425,1.606758534908295,9.2
+83,Ariege,Chambres d'hôtes Relais Mira Peis,9.1,43.088176,1.875399,9.1
+84,Ariege,Clos des Oliviers,9.5,43.087465378933,1.875738065382,9.5
+85,Ariege,"Demeure de la Carmine, sejour bien-etre d'exception, piscine, hammam, champagne",9.6,43.087540393135015,1.871355308598368,9.6
+86,Ariege,Hostellerie de La Poste,8.3,42.87471200315397,1.215839982032776,8.3
+87,Ariege,La Maison des Consuls,9.2,43.0883043,1.8744475999999397,9.2
+88,Ariege,Le Domaine d'Arignac,8.9,42.867575,1.6029912,8.9
+89,Ariege,Le Grand Cerf - 4 Couchages,9.2,42.908524260607,1.721126121704,9.2
+90,Ariege,Le Hameau du Comté de Foix,8.6,42.894548,1.634179,8.6
+91,Ariege,Le Nopal Bleu,9.3,42.8485793,1.6071044,9.3
+92,Ariege,Les Granges d'Ignaux,8.8,42.73192570181017,1.8392968650817745,8.8
+93,Ariege,Les gîtes de Beille,8.1,42.78555710137,1.681665414963,8.1
+94,Ariege,Malepère,9.1,43.05318016042,1.848653033064,9.1
+95,Ariege,Petit Gîte TARA avec SPA - Ariege Pyrénées,8.6,42.932079,1.810394,8.6
+96,Ariege,Skymist Maison d'hôtes,7.0,42.9021010307227,1.30223250424024,7.0
+97,Ariege,Terres de France - Domaine du Palais,8.1,43.003051,1.13713,8.1
+98,Ariege,dtente sky lodge,8.9,42.8945039821351,1.32823378698731,8.9
+99,Ariege,loft At Besset,8.0,43.0838424368769,1.84741705656052,8.0
+100,Avignon,APPARTEMENT T2 SPACIEUX ET COSY - HYPER-CENTRE - FREE WIFI - 2 pers,8.4,43.9450926,4.809831,8.4
+101,Avignon,ApartHotel Sainte-Marthe,7.9,43.94989513805674,4.819863885641098,7.9
+102,Avignon,Apartment 40m2-Air conditioning-Elevator-Underground parking-Self checkin! Appart climatisé 40m2-Ascenseur-Parking souterrain -Arrivée autonome,9.8,43.9451879,4.7996263,9.8
+103,Avignon,Chanteloche CLIM Netflix Disney by Rentabao,8.7,43.94762745471637,4.811763398147605,8.7
+104,Avignon,Charme au cœur d'avignon,9.7,43.947744,4.80797,9.7
+105,Avignon,Garlande Hôtel Avignon Centre,8.9,43.94761833011378,4.806803539395332,8.9
+106,Avignon,Hotel d'Angleterre,8.0,43.944616324685065,4.8006123304367065,8.0
+107,Avignon,Hôtel Cloitre Saint Louis Avignon,7.6,43.94380810369034,4.804946780204773,7.6
+108,Avignon,Hôtel Le Bristol,8.2,43.94403212781474,4.80533167719841,8.2
+109,Avignon,Hôtel Les Corps Saints,7.6,43.944233090012354,4.806668758392334,7.6
+110,Avignon,La Banasterie,9.4,43.94986997607394,4.808515459299088,9.4
+111,Avignon,Le Madaloca - AC CLIM - WIFI - HYPERCENTRE,9.6,43.948015,4.8072843,9.6
+112,Avignon,Le Petit Avignon - chambres & appartement à deux pas du Pont d'Avignon et du Palais des Papes,9.3,43.950653881879,4.803308596474,9.3
+113,Avignon,Le Pi-gnotte - Wi-fi - CENTRE VILLE,8.6,43.948523,4.8121323,8.6
+114,Avignon,Les Cachettes,8.8,43.95098993957507,4.810630206151586,8.8
+115,Avignon,Maison Lumière - Appart. T2 architecte intra-muros,9.2,43.9480697,4.8111015,9.2
+116,Avignon,"Mini-loft, Clos des Arts - parking gratuit",9.5,43.945588602008,4.810122790531,9.5
+117,Avignon,My Pad Provence 2,9.0,43.9514058680036,4.803405723278843,9.0
+118,Avignon,My Pad Provence 6,9.3,43.9515236,4.8170918,9.3
+119,Avignon,T2 centre ville avec extérieur,9.5,43.945666,4.810924,9.5
+120,Avignon,T3 Appartement HYPERCENTRE PROCHE COMMERCE- PARKING - 2 Chambres Wifi Gratuit,8.1,43.9450926,4.809831,8.1
+121,Avignon,UXCO République,6.8,43.94603671990348,4.805869460105896,6.8
+122,Avignon,Villa Maya Romana 6 - CLIM,9.5,43.9528815,4.8230448,9.5
+123,Avignon,Villa Pauline,9.4,43.9577999,4.8341807,9.4
+124,Avignon,Villas Maya 2 - Picholine - AVIGNON - CLIM - WIFI - Terrasse,9.1,43.9528815,4.8230448,9.1
+125,Bayeux,"Appartement centre-ville Bayeux, tout à pied !",9.5,49.2764341,-0.6999725,9.5
+126,Bayeux,Chambre d'hôtes Logis de Saint Jean,9.0,49.27600708695382,-0.6982836127281189,9.0
+127,Bayeux,Churchill Hotel Bayeux Centre,8.2,49.27660730434995,-0.7005715370178223,8.2
+128,Bayeux,Château de Bellefontaine - Teritoria,7.7,49.26974024114688,-0.6888395547866821,7.7
+129,Bayeux,Clos de Bellefontaine B&B,9.6,49.27267163506437,-0.694861114025116,9.6
+130,Bayeux,Croissant de Lune #2 - Old Town,7.7,49.276456069178,-0.699303999406,7.7
+131,Bayeux,Domaine de Bayeux,9.1,49.27232559999999,-0.6985101000000213,9.1
+132,Bayeux,Hello Bayeux #2 by Melrose,8.3,49.2780891,-0.7023853,8.3
+133,Bayeux,Hotel Le Lion D'Or et Restaurant La Table Du Lion,8.6,49.27627832312484,-0.6983694434165955,8.6
+134,Bayeux,Hotel Reine Mathilde,8.6,49.276031585766006,-0.7017248868942261,8.6
+135,Bayeux,Hôtel De Brunville & Spa,8.0,49.27815768633019,-0.7035139203071594,8.0
+136,Bayeux,"Hôtel particulier ""le clos de la croix""",9.8,49.277964,-0.701677,9.8
+137,Bayeux,La Plus Petite Maison De France,9.2,49.27661977234524,-0.7010999321937561,9.2
+138,Bayeux,Le Boudoir,9.5,49.281362347408,-0.700075818886,9.5
+139,Bayeux,Le Castel Guesthouse,8.7,49.27368314430212,-0.7032269239425659,8.7
+140,Bayeux,Le Clos de la Chapelle Bayeux,9.5,49.2763363,-0.6998627,9.5
+141,Bayeux,Le Declic,8.3,49.27933593079586,-0.7070561004303499,8.3
+142,Bayeux,Le Mûrier de Bayeux,9.8,49.2769354,-0.7072805999999999,9.8
+143,Bayeux,Le P'tit Croissant,9.3,49.276309904443,-0.699251303705,9.3
+144,Bayeux,Le Petit Matin,9.5,49.27606133430732,-0.7090553641319275,9.5
+145,Bayeux,Manoir Sainte Victoire,9.6,49.2764917090797,-0.705759599804878,9.6
+146,Bayeux,Novotel Bayeux,8.0,49.281769222390345,-0.7184886932373047,8.0
+147,Bayeux,The 5th - Appartement Cosy Coeur historique - Cathédrale,8.3,49.274516,-0.7022678,8.3
+148,Bayeux,Tiny house au cœur de Bayeux,9.6,49.2755584,-0.6992038,9.6
+149,Bayeux,Villa Des Ursulines,8.3,49.27646774792992,-0.7055658153442437,8.3
+150,Bayonne,Amatxi Etxea Au cœur du centre historique,8.2,43.491263017069,-1.475549617197,8.2
+151,Bayonne,Baiona,9.3,43.48722,-1.46584,9.3
+152,Bayonne,Baionakoa Résidence,9.0,43.48982756216983,-1.4769295843610737,9.0
+153,Bayonne,Hostel 20 Bayonne,7.7,43.49535,-1.468753,7.7
+154,Bayonne,Hotel Cote Basque,8.0,43.49618306480432,-1.4696010947227478,8.0
+155,Bayonne,Hotel Le Port Neuf,8.1,43.49166880556409,-1.47638238966465,8.1
+156,Bayonne,Hotel Loreak,8.2,43.49349108918729,-1.4526334404945374,8.2
+157,Bayonne,Hôtel Le Bayonne,8.3,43.485026198989566,-1.4753705263137815,8.3
+158,Bayonne,Hôtel Mercure Bayonne Centre Le Grand Hotel,8.4,43.492311913537534,-1.476609706878662,8.4
+159,Bayonne,Hôtel Villa KOEGUI Bayonne,8.9,43.492371,-1.472588,8.9
+160,Bayonne,Hôtel des Arceaux,7.1,43.4922497,-1.4757726000000275,7.1
+161,Bayonne,Hôtel des Basses Pyrénées - Bayonne,8.5,43.48841135250723,-1.47714337381899,8.5
+162,Bayonne,"Le Balcon de l’Adour, Parking, Vue",8.7,43.508182773291,-1.481726637434,8.7
+163,Bayonne,Libertitu,9.2,43.494486,-1.483622,9.2
+164,Bayonne,Loft ERREKALDEA 3 chambres 140m2 1er étage ascenseur 200m mairie,9.0,43.4915017789507,-1.47537070476983,9.0
+165,Bayonne,Maison d'hôtes City Break MIRADOUR,8.6,43.489513,-1.479078,8.6
+166,Bayonne,Okko Hotels Bayonne Centre,8.2,43.49534430000001,-1.4825117999999975,8.2
+167,Bayonne,Parc 709 Bayonne,9.1,43.495606,-1.481317,9.1
+168,Bayonne,T2 BASQUE BAYONNE,8.6,43.497239392111,-1.467787295107,8.6
+169,Bayonne,Temporesidence Cathedrale,8.0,43.48954192769906,-1.4781244844198227,8.0
+170,Bayonne,Temporesidence Chateauneuf,7.3,43.48991068270512,-1.4731402695178986,7.3
+171,Bayonne,ibis Bayonne Centre,8.1,43.492713,-1.465659,8.1
+172,Bayonne,ibis Styles Bayonne,8.5,43.4954057411974,-1.4708241820335388,8.5
+173,Bayonne,ibis budget Bayonne,7.6,43.489082618638825,-1.4571780861297157,7.6
+174,Bayonne,jeu de paume,8.8,43.4898477,-1.4718019,8.8
+175,Besancon,- N26- Studio calme et lumineux cœur de ville,8.6,47.235171878729,6.024493453373,8.6
+176,Besancon,Appartement Centre ville Besançon,9.0,47.2389483,6.0176313,9.0
+177,Besancon,Appartement avec sauna au pied de la citadelle,9.3,47.2338443,6.0287922,9.3
+178,Besancon,"Appartement très calme, terrasse & jardin en ville",9.0,47.239625059513,6.010174032241,9.0
+179,Besancon,Au Duplex d'Or Centre Historique,9.7,47.233664356844,6.029148903705,9.7
+180,Besancon,B&B HOTEL Besançon Valentin,8.6,47.2801612,5.9877459,8.6
+181,Besancon,Best Western Citadelle,8.1,47.23154100035795,6.026580333709717,8.1
+182,Besancon,Best Western Hotel Fontaine Argent,8.3,47.246146,6.033186,8.3
+183,Besancon,Chambre d'Hôtes La Villa Molina,9.3,47.25044475006427,6.02088063955307,9.3
+184,Besancon,Charmant cocon centre historique,9.2,47.2345273,6.0274517,9.2
+185,Besancon,Comfort Aparthotel Besancon Hauts du Chazal,8.0,47.22448655881508,5.956124067306519,8.0
+186,Besancon,Comfort Aparthotel Besancon La City,7.9,47.235682520054645,6.01401150226593,7.9
+187,Besancon,Hotel Du Nord,8.3,47.23727602649555,6.02586954832077,8.3
+188,Besancon,Hotel Régina,7.1,47.23664,6.025664,7.1
+189,Besancon,Hotel Vauban,8.3,47.23986295611545,6.02139884220378,8.3
+190,Besancon,Hôtel Restaurant Spa Le Sauvage,8.6,47.23171766809705,6.027591526508331,8.6
+191,Besancon,L'adresse à Besançon,9.7,47.247368341192,6.031483743655,9.7
+192,Besancon,Les Fabuleux appartements du Coeur de ville - Place Victor Hugo,8.5,47.235012635508,6.029440829448,8.5
+193,Besancon,Logis Hôtel Victor Hugo & Spa,8.2,47.24741870976628,6.023643314838409,8.2
+194,Besancon,Mercure Besancon Parc Micaud - Hotel & Bar,8.2,47.2422875195244,6.031794548034668,8.2
+195,Besancon,Temis hôtel anciennement All Suites Besançon,7.9,47.25435722578138,5.995480120182037,7.9
+196,Besancon,ibis Besançon Centre Ville,8.3,47.24045605146395,6.025995332734055,8.3
+197,Besancon,ibis Besançon Centre la City,7.8,47.23549140373459,6.0149883853889605,7.8
+198,Besancon,ibis Styles Besançon,7.9,47.2542534551454,6.021639704704285,7.9
+199,Besancon,ibis budget Besançon Centre Gare,7.7,47.246846407466016,6.023120284080505,7.7
+200,Biarritz,AGTBAB,9.0,43.4815752,-1.56805540000005,9.0
+201,Biarritz,ALFRED HOTELS Les Halles,9.1,43.481694404236,-1.5630841255187988,9.1
+202,Biarritz,Amazing Cosy Studio with Ocean View & Pool,10.0,43.4847155,-1.5573339,10.0
+203,Biarritz,BIARRITZ Victoria Surf,8.7,43.4840168,-1.5579647,8.7
+204,Biarritz,Carlton Beach,7.3,43.48529365218,-1.555050269312,7.3
+205,Biarritz,Coliving Biarritz,8.0,43.479357,-1.562543,8.0
+206,Biarritz,Coup de Cœur assuré pour ce T2 rénové Hyper centre,8.8,43.480819,-1.563038,8.8
+207,Biarritz,Hotel Biarritz Atlantique - Lycée Hotelier - Management School,8.6,43.46235808911393,-1.5522771711639507,8.6
+208,Biarritz,Hotel Edouard VII,9.1,43.479203222687474,-1.5622150897979736,9.1
+209,Biarritz,Hôtel & Espace Bien-être La Maison du Lierre,8.9,43.480133535313925,-1.560761332511902,8.9
+210,Biarritz,Hôtel Barnea,9.1,43.48072811046226,-1.5642817318439484,9.1
+211,Biarritz,Hôtel Le Windsor Biarritz,8.1,43.48437425594828,-1.5586356818675997,8.1
+212,Biarritz,Hôtel de La Plage,9.1,43.482133269718496,-1.567530557513237,9.1
+213,Biarritz,"L'océan à perte de vue, la grande plage à vos pieds",9.5,43.4845717,-1.5575612,9.5
+214,Biarritz,"La Casa Cosy, Appart'Hôtel",8.7,43.480333,-1.56254790000003,8.7
+215,Biarritz,Le Gamaritz,8.9,43.481774198197215,-1.5665441751480105,8.9
+216,Biarritz,Résidence Pierre & Vacances Premium Haguna,8.6,43.4853453565997,-1.5525805950164795,8.6
+217,Biarritz,Résidence Vacances Bleues Le Grand Large,8.4,43.48065123446311,-1.5653452277183533,8.4
+218,Biarritz,STUDIO Grande Plage de BIARRITZ,8.2,43.484017,-1.55796499999997,8.2
+219,Biarritz,"STUDIO LES PIEDS DANS LE SABLE, VUE MER & BALCON",8.3,43.4850591,-1.5570042,8.3
+220,Biarritz,"Studio Biarritz 2 min Halles, 3 min plages, plein centre.",9.1,43.4805416692988,-1.5641824537418292,9.1
+221,Biarritz,Studio Marisca - Welkeys,8.6,43.478673,-1.558378,8.6
+222,Biarritz,Studio Thalmar - Welkeys,8.4,43.4836116,-1.55794430000003,8.4
+223,Biarritz,Studio à La Grande Plage de Biarritz,9.0,43.48395187382006,-1.5578550134949931,9.0
+224,Biarritz,Victoria Surf Studio d'Architecte,8.8,43.4847531,-1.5574496999999998,8.8
+225,Bormes les Mimosas,Apartment le Port de Bormes-6 by Interhome,9.5,43.122208,6.363884,9.5
+226,Bormes les Mimosas,Appartement pieds dans l’eau Vue Mer Bormes Les Mimosas,9.2,43.122153051238,6.3594635804260005,9.2
+227,Bormes les Mimosas,"Bord de mer, charmant studio entièrement équipé",9.4,43.1260231,6.358852,9.4
+228,Bormes les Mimosas,Bormes - Le Loft,8.9,43.1507533,6.3406583,8.9
+229,Bormes les Mimosas,Bormes-les-Mimosas - Appart 25m2 avec balcon - 4P,8.6,43.1230872,6.3538621,8.6
+230,Bormes les Mimosas,Boulevard du Soleil,9.4,43.149232813225,6.341970146281,9.4
+231,Bormes les Mimosas,Cosy 36m With Nice Sea View Center Village !,9.2,43.15088,6.341155,9.2
+232,Bormes les Mimosas,Cosy studio - Place du Figuier,9.6,43.151455120292,6.342968300164,9.6
+233,Bormes les Mimosas,Hôtel de la Plage - HDLP,8.9,43.124617,6.357572,8.9
+234,Bormes les Mimosas,La Lavandière,8.9,43.14385490000001,6.3518156,8.9
+235,Bormes les Mimosas,La petite Provence,8.8,43.15127099096753,6.341906766830476,8.8
+236,Bormes les Mimosas,Les Terrasses de Lô,9.4,43.143885,6.353536,9.4
+237,Bormes les Mimosas,Les deux mas,9.3,43.143936592874,6.336323240475,9.3
+238,Bormes les Mimosas,Mer et soleil,7.9,43.12559147449615,6.355554149073774,7.9
+239,Bormes les Mimosas,Petite maison cocooning à Bormes les mimosas,9.9,43.141578787225,6.339051580173,9.9
+240,Bormes les Mimosas,SELECT' - T2 avec vue - Piscine et parking privé - CAPNAT-B08,9.5,43.142718,6.3529160000000005,9.5
+241,Bormes les Mimosas,SELECT'soHOME - Appartement spacieux pour 4 personnes avec garage privé et piscine ! - ALCAZAR-17,9.0,43.143074,6.343832,9.0
+242,Bormes les Mimosas,SELECT'soHOME - Joli appartement avec jardin privatif et parking - CAPNAT-F08,8.0,43.142718,6.3529160000000005,8.0
+243,Bormes les Mimosas,SELECT'soHOME - Superbe appartement pour 4 personnes à deux pas de la plage et des commerces de la Favière ! - ILOA-B01,10.0,43.124624,6.359008,10.0
+244,Bormes les Mimosas,SELECT'soHOME - T2 entièrement rénové à quelques pas de la plage - POS07,9.0,43.124018,6.351083,9.0
+245,Bormes les Mimosas,Studio 3 pers coeur de village Bormes les Mimosas,9.0,43.1509262,6.3417905,9.0
+246,Bormes les Mimosas,Studio climatisé avec une place de parking et classé 2 étoiles à la Faviére,9.3,43.1228248,6.3568602,9.3
+247,Bormes les Mimosas,"Studio rénové avec terrasse et jardin, proche commerces, parking privé - Bormes-les-Mimosas - FR-1-251-583",8.5,43.13967,6.353453,8.5
+248,Bormes les Mimosas,Superbe T2 4 étoiles climatisé Favière refait à neuf,9.1,43.1238485,6.3598623,9.1
+249,Bormes les Mimosas,The Little House,9.6,43.150360805018,6.342202005523,9.6
+250,Cassis,"AQUARIUS IN CASSIS, Chambres d'Hôtes",9.4,43.2223547,5.5345386,9.4
+251,Cassis,AU BORD DE L'EAU Studio climatisé avec Terrasse et vue mer à 40m de la plage,9.0,43.21270691626079,5.530255613708505,9.0
+252,Cassis,Appart Bianca T2 - Terrasse - Parking - Calme - 1mn de la mer,9.0,43.207747,5.5221918,9.0
+253,Cassis,Astoria Villa maison d hôtes Appartement vue mer avec piscine,9.0,43.211728,5.5286144,9.0
+254,Cassis,Brises Marines par Dodo-à-Cassis,9.6,43.21837152576269,5.530769654769894,9.6
+255,Cassis,Chez Jacques par Dodo-a-Cassis,8.5,43.2154586,5.5344976,8.5
+256,Cassis,HORIZON BLEU Vue Mer,9.0,43.21499336754322,5.535849433343194,9.0
+257,Cassis,HPC Suites - Parking Gratuit & Piscine Chauffée,9.2,43.216440236856805,5.541745724536895,9.2
+258,Cassis,Home Cassis - Maison Les Calanques - Piscine chauffée,8.1,43.21183242551023,5.524701520789677,8.1
+259,Cassis,Home Cassis - Maison Mediterranée - Piscine chauffée,8.6,43.219776350851,5.53745873272419,8.6
+260,Cassis,Hotel Le Golfe,8.2,43.21443437507463,5.535294860601425,8.2
+261,Cassis,LA MAISON SUR LE PORT 4 pers vue mer,9.3,43.21494337597,5.537070546033,9.3
+262,Cassis,LA RADE - Centre Ville - Balcon - Clim - Neuf,8.9,43.215008063197,5.535190430897,8.9
+263,Cassis,LE CLOS DES ARÔMES,8.7,43.216217352829,5.53802689265,8.7
+264,Cassis,LE SEPT charmant studio aux portes des calanques,9.9,43.2175997,5.53235,9.9
+265,Cassis,LE SON DES VAGUES VUE MER,8.1,43.214377261719,5.530461115344,8.1
+266,Cassis,La douceur de Cassis,9.4,43.215009,5.530956,9.4
+267,Cassis,Le Bel Ecrin par Dodo-a-Cassis,9.2,43.214186950925,5.534756271164,9.2
+268,Cassis,"Le Best à Cassis,Top emplacement,Parking,double balcon",8.8,43.21544455774376,5.538857035581972,8.8
+269,Cassis,Le Pagnol - Hyper centre - Clim,9.1,43.2135817,5.5397868,9.1
+270,Cassis,"L’Aiguade, appartement d'exception à Cassis",9.5,43.2141154,5.5338211,9.5
+271,Cassis,Magnifique appartement Cassis,9.4,43.2162109,5.5365082,9.4
+272,Cassis,Mistral gagnant - parking privé,9.5,43.2160986,5.5378404,9.5
+273,Cassis,Seaview.Cassis,9.3,43.2144315,5.5350758,9.3
+274,Cassis,Vue de rêve,8.9,43.2142373,5.5346136,8.9
+275,Collioure,66B - Beautiful flat 800m from the sea with private parking,8.8,42.5275373,3.0795944,8.8
+276,Collioure,APP' ART CENTRE PLAGE + PARKING GRATUIT,9.0,42.5233452832972,3.08696843573436,9.0
+277,Collioure,Al Balcó Català - Appt avec terrasse et piscine,9.5,42.527155,3.075609,9.5
+278,Collioure,Appartement Collioure centre & GARAGE PRIVATIF,8.9,42.524608160146,3.082648757417,8.9
+279,Collioure,Appartement Farniente,9.0,42.5286725,3.0772025,9.0
+280,Collioure,Appartement vue mer à 1 min à pied des plages avec parking privé,9.1,42.524890271487,3.096973169329,9.1
+281,Collioure,Canta la Mar - Vue exceptionnelle,9.4,42.5244310979188,3.09031585214175,9.4
+282,Collioure,Chambre_privée_Collioure_centre,9.1,42.526851,3.083962,9.1
+283,Collioure,Hotel Méditerranée,8.2,42.52708253934128,3.080262914299965,8.2
+284,Collioure,Hôtel La Casa Pairal,8.9,42.5261673320343,3.082355707883835,8.9
+285,Collioure,Hôtel Princes de Catalogne,8.3,42.52591431339357,3.0826815962791443,8.3
+286,Collioure,Ibanova Appartements,8.4,42.5231333,3.0855761,8.4
+287,Collioure,"L'Escale de Collioure - Climatisé, parking privé sécurisé, vue mer",9.4,42.52182291325428,3.0937092098175123,9.4
+288,Collioure,La Frégate,8.2,42.52638625163285,3.083256594836712,8.2
+289,Collioure,La Terrasse Bleue,10.0,42.522107537858,3.093752125162,10.0
+290,Collioure,Le Madeloc Hôtel & Spa,9.0,42.5287646672607,3.078654259443283,9.0
+291,Collioure,Le Mas des Citronniers,8.4,42.52538158720205,3.082563914358616,8.4
+292,Collioure,Le Petit Colliourenc - Apt climatisé avec terrasse,8.8,42.52612488316423,3.075606643377693,8.8
+293,Collioure,Les Roches Brunes,9.2,42.52534777273077,3.0903244632682725,9.2
+294,Collioure,Résidence St Vincent,8.4,42.527300950061466,3.0842326802181788,8.4
+295,Collioure,Résidence du Soleil,8.4,42.5231175442504,3.08542529814758,8.4
+296,Collioure,Studio Centre Plage parking gratuit,9.0,42.52298767656799,3.087329664129035,9.0
+297,Collioure,appart central et son parking privatif gratuit,8.9,42.52488242025802,3.0818789317017803,8.9
+298,Collioure,studio vue mer garage,8.0,42.525937881854,3.078221138099,8.0
+299,Collioure,Ô Saphir de Collioure - Proche plage - Garage - WIFI,9.0,42.5232871,3.0919858,9.0
+300,Colmar,Appartement Colmar Petite Venise,9.1,48.074358603999535,7.361234530076786,9.1
+301,Colmar,Appartement Magnîolia proche centre Ville,9.3,48.079894192905,7.366032003704,9.3
+302,Colmar,Appartement proche centre ville avec parking,0.0,48.0808065250115,7.35233449391785,0.0
+303,Colmar,Arche de Noé,9.3,48.07716474768276,7.35598093867555,9.3
+304,Colmar,B&B HOTEL Colmar Expo,8.1,48.0963028332922,7.36164164047545,8.1
+305,Colmar,Chambres d'hôtes Chez Caroline,8.6,48.078736577270064,7.360100532353457,8.6
+306,Colmar,Colmar Hotel,8.9,48.07080073724868,7.346389726389361,8.9
+307,Colmar,Cosy Corner,9.4,48.0719878675145,7.36855001812125,9.4
+308,Colmar,Felicita Vintage Appartements - Colmar City Center,8.6,48.0787829108134,7.35924925826646,8.6
+309,Colmar,Gite BI UNS chez Silvana,10.0,48.077554849728976,7.356254970569367,10.0
+310,Colmar,Gites Du Ladhof,8.9,48.0859708749974,7.36728065174998,8.9
+311,Colmar,Grand Hôtel Bristol,7.6,48.07245882991573,7.347557544708252,7.6
+312,Colmar,"Gîte ""La Baloise""",8.9,48.068244431367326,7.36023280887947,8.9
+313,Colmar,Hotel Arc-En-Ciel Colmar Contact Hotel,8.2,48.08745399108503,7.360686957836151,8.2
+314,Colmar,Hotel Saint-Martin,8.2,48.07641680865711,7.359351888298988,8.2
+315,Colmar,Ibis Styles Colmar Centre,8.5,48.076817,7.35519899999997,8.5
+316,Colmar,Klipfel Little Venice,9.6,48.071589984116,7.356718670044756,9.6
+317,Colmar,La Semeuse Hurst,7.9,48.07900763271314,7.362171392887831,7.9
+318,Colmar,Le Grand Lion Colmar Centre Parking Gratuit,9.0,48.0757023,7.3566438,9.0
+319,Colmar,Les Appartements Saint-Martin,9.2,48.0772750350199,7.3570767233482,9.2
+320,Colmar,Maison Cliquot - Appartements Colmar Centre,8.7,48.0743584711672,7.356761069575896,8.7
+321,Colmar,Odalys City Colmar La Rose d'Argent,8.0,48.07891558140651,7.365148393658274,8.0
+322,Colmar,PAUL & PIA - Welcome Home Hotel,8.4,48.07654046258575,7.349873632192612,8.4
+323,Colmar,Quiet Corner,9.3,48.072145213703,7.368550534393,9.3
+324,Colmar,i-love-colmar - Le 8 de Coeur - Garage gratuit,9.3,48.0774007,7.3610058,9.3
+325,Eguisheim,Auberge du Rempart,8.7,48.0421578072359,7.30737026134227,8.7
+326,Eguisheim,Chambre Pastis,9.3,48.0424275,7.308131,9.3
+327,Eguisheim,Chambre Pin Up Wings,9.5,48.0424275,7.308131,9.5
+328,Eguisheim,Chambre Rose des Vents,9.3,48.0424275,7.308131,9.3
+329,Eguisheim,Chambre Super Broussard,9.5,48.0424275,7.308131,9.5
+330,Eguisheim,Charmant studio avec parking,9.7,48.04549308855,7.311312139649,9.7
+331,Eguisheim,Eguisheim village préféré des français grand studio,9.2,48.0476831,7.31329149999999,9.2
+332,Eguisheim,Fleur de Vigne,9.7,48.0461134,7.3051632,9.7
+333,Eguisheim,Gite Le Petit Malsbach Eguisheim,9.2,48.042240543927,7.312705098669,9.2
+334,Eguisheim,Gite St Léon à Eguisheim,9.2,48.0428645,7.3061238,9.2
+335,Eguisheim,Gîte Le Hissala,8.5,48.04340694895573,7.307608723640442,8.5
+336,Eguisheim,Gîte de charme sur les remparts,9.3,48.0437864,7.3057051,9.3
+337,Eguisheim,Gîte le Petit Muscat à Eguisheim,8.7,48.041822895723,7.305279444775,8.7
+338,Eguisheim,Hotel Colmar Vignes Eguisheim,8.8,48.04327132624498,7.3041218519210815,8.8
+339,Eguisheim,Hotel SPA Husseren Collections - Proche Colmar - Eguisheim,8.9,48.0349876742797,7.27613836526871,8.9
+340,Eguisheim,Hôtel L'Auberge Alsacienne,8.6,48.042238408346414,7.309167757630348,8.6
+341,Eguisheim,L'Adresse Studio Rempart sud - centre historique Eguisheim,9.7,48.0417699,7.3063084,9.7
+342,Eguisheim,L'Hostellerie du Château,8.8,48.04242042576413,7.306319251656532,8.8
+343,Eguisheim,La Légende des 2 Pierres,8.8,48.04299853012026,7.304489390213007,8.8
+344,Eguisheim,Le Hameau d'Eguisheim - Chambres d'hôtes & Gîtes,9.0,48.042528965197135,7.307127267122269,9.0
+345,Eguisheim,Le gîte de Ninon et Léon.,8.8,48.049874,7.307301,8.8
+346,Eguisheim,Les Tuileries Eguisheim,8.4,48.045572253172,7.31132003373,8.4
+347,Eguisheim,Les chambres du domaine,9.3,48.042963,7.307216,9.3
+348,Eguisheim,Résidence Pierre & Vacances Le Clos d'Eguisheim,8.0,48.04502733567647,7.311854660511017,8.0
+349,Eguisheim,"The Originals Boutique, Hôtel La Ferme du Pape, Eguisheim",8.1,48.04228862011209,7.309451401233673,8.1
+350,Gorges du Verdon,"""Les Lauriers"" chambre indépendante avec terrasse privée",9.0,43.84195521143776,6.218284703151102,9.0
+351,Gorges du Verdon,-Le Toit Terrasse -,9.0,43.817831808108,6.09241485189,9.0
+352,Gorges du Verdon,APPARTEMENT Studio neuf bas de villa Gorges du verdon à RIEZ,8.3,43.8070137,6.1121231,8.3
+353,Gorges du Verdon,Auberge des Salles,8.5,43.77239231716274,6.208481642852803,8.5
+354,Gorges du Verdon,Camping Le Saint Clair,7.9,43.828239,6.223991,7.9
+355,Gorges du Verdon,Camping Les Framboiseilles,8.9,43.84199848390156,6.536350250244141,8.9
+356,Gorges du Verdon,Camping Rives du Lac de Sainte Croix,8.1,43.722453,6.181732,8.1
+357,Gorges du Verdon,Chambres d' hôtes l'Escalo à Moutiers-Ste-Marie (04360),9.1,43.846257720497,6.221542192069,9.1
+358,Gorges du Verdon,Clos des Iris,9.2,43.84251694117047,6.218900084495544,9.2
+359,Gorges du Verdon,Gîte Les Fourches,8.9,43.7182483,6.1306621,8.9
+360,Gorges du Verdon,Hôtel Spa L'Ermitage,7.9,43.774142339045085,6.217255890369415,7.9
+361,Gorges du Verdon,LA CALADE,9.4,43.7610052,6.4443698,9.4
+362,Gorges du Verdon,Le Bosquet,8.7,43.7725018897854,6.243009120225906,8.7
+363,Gorges du Verdon,Le Petit Fabre,9.3,43.786047,6.124812,9.3
+364,Gorges du Verdon,Le Vieux Château,7.1,43.77567317733737,6.243384361250719,7.1
+365,Gorges du Verdon,Les Balcons du Lac T2 Belle vue,9.0,43.774481,6.20925,9.0
+366,Gorges du Verdon,Les Haut Du Lac,8.4,43.75968637408211,6.149702310431167,8.4
+367,Gorges du Verdon,Maison de village type 2,9.4,43.7583452,6.1511762,9.4
+368,Gorges du Verdon,Résidence Lou Cigaloun - ANA LOCATION,9.0,43.7562956,5.8805006,9.0
+369,Gorges du Verdon,STUDIO ÉLÉGANT & MODERNE - ENTRE LAVANDE ET GORGES DU VERDON,9.6,43.7619873,5.8900078,9.6
+370,Gorges du Verdon,Studi-Hôtel Résidence Plein Voile,7.8,43.773656,6.208356999999978,7.8
+371,Gorges du Verdon,Studio Campanule Provence Verdon,8.6,43.818000594604,6.093773330025,8.6
+372,Gorges du Verdon,Studio avec terrasse et jolie vue sur le lac,8.2,43.758968,6.150806,8.2
+373,Gorges du Verdon,"Verdon Appartement Notre ""Chez Vous""",9.0,43.776087945603,6.243116202224,9.0
+374,Gorges du Verdon,Zofia appartements - Duplex avec terrasse #2,9.4,43.847600537317135,6.220925510416047,9.4
+375,Grenoble,#CQ - T2 - Les Antiquaires,8.1,45.1914175,5.7321561,8.1
+376,Grenoble,1924 Hôtel,8.8,45.18928483181276,5.7186198234558105,8.8
+377,Grenoble,Appartement Hagaki vue panoramique proche gare Netflix,9.9,45.1931183,5.7167071,9.9
+378,Grenoble,Appartements RESIDILAVERDE Hypercentre,9.2,45.188645,5.730245,9.2
+379,Grenoble,Appartements Residilaverde Gare,8.8,45.18988406394267,5.716276913881302,8.8
+380,Grenoble,BOSS Gare Confort Netflix Climatisation Portable Cours Jean Jaurès & Marché Local,8.6,45.1852517,5.7158391,8.6
+381,Grenoble,Campanile Grenoble Centre Gare,7.7,45.19051920530674,5.716019421815872,7.7
+382,Grenoble,Coeur centre ville Grenoble - charme de l'ancien,7.0,45.1874088,5.7227932,7.0
+383,Grenoble,Hotel Europole,7.8,45.190237551231256,5.712663978338242,7.8
+384,Grenoble,Hotel Lux,7.7,45.189522,5.716226000000006,7.7
+385,Grenoble,Hotel Mercure Grenoble Centre Président,7.5,45.17849379329981,5.720297545194626,7.5
+386,Grenoble,Hôtel Terminus,8.7,45.1910782561633,5.715598315000534,8.7
+387,Grenoble,Kyriad Grenoble Centre,7.9,45.16819994402455,5.711994767189026,7.9
+388,Grenoble,"Le Huppé, Hypercentre, proche Bastille, WIFI illimité & Netflix",8.8,45.192491022878,5.727852673016,8.8
+389,Grenoble,Maison Barbillon Grenoble,8.4,45.19079329686088,5.716696679592133,8.4
+390,Grenoble,Mercure Grenoble Centre Alpotel,7.3,45.183273258218605,5.729691982269287,7.3
+391,Grenoble,Novotel Grenoble Centre,8.0,45.1906950021105,5.712595582008362,8.0
+392,Grenoble,R 'Apparts T3 Isère Dreams,7.2,45.1929371,5.7165184,7.2
+393,Grenoble,Residhome Grenoble Caserne De Bonne,7.6,45.18346987318301,5.7243382930755615,7.6
+394,Grenoble,Residhotel Grenette,7.6,45.190563627131006,5.724484473466873,7.6
+395,Grenoble,Residhotel Le Central'Gare,7.9,45.19085898412344,5.715724378824234,7.9
+396,Grenoble,RockyPop Grenoble Hotel,8.5,45.186911,5.731293,8.5
+397,Grenoble,Séjours & Affaires Grenoble Marie Curie,7.7,45.19439642122087,5.7105933129787445,7.7
+398,Grenoble,The Babel Community Hôtel - Grenoble Bastille,8.5,45.195810837764,5.725446775394,8.5
+399,Grenoble,ibis Grenoble Gare,7.5,45.19289800342784,5.717390924801293,7.5
+400,Le Havre,"""L'escapade Havraise"" Studio Parking gratuit Coeur de Ville",9.6,49.49003306531119,0.1027965782525086,9.6
+401,Le Havre,Appartement Le Petit Galet,8.0,49.4997903,0.0922424999999999,8.0
+402,Le Havre,Appartement T3 vue sur mer,8.7,49.4959112,0.0951019999999999,8.7
+403,Le Havre,Appartement vue Saint Joseph,9.2,49.4904733,0.1003193,9.2
+404,Le Havre,Charmant T2 52m2 en Hypercentre,9.4,49.489465,0.1049527,9.4
+405,Le Havre,Escale Quai George V,9.0,49.49102587569106,0.1136524379580805,9.0
+406,Le Havre,F2 hypercentre - Proche gare - WIFI gratuite,9.1,49.4943145,0.124113,9.1
+407,Le Havre,F2 hypercentre - Proche gare - WIFI gratuite,9.6,49.4943145,0.124113,9.6
+408,Le Havre,F2 hypercentre - Proche gare- WIFI gratuite,8.8,49.4943145,0.124113,8.8
+409,Le Havre,Hotel Spa Le Pasino,8.3,49.49117449151481,0.1119366288185119,8.3
+410,Le Havre,Hôtel Carmin,8.2,49.49493852015591,0.1055395603179931,8.2
+411,Le Havre,Ibis Budget Le Havre Les Docks,8.3,49.49424468286882,0.1428524260978747,8.3
+412,Le Havre,L'Adresse-Standing proche plage avec parking,6.5,49.4967636,0.0988142,6.5
+413,Le Havre,L'Escale Appartements et Suites en bord de Mer,8.2,49.490069,0.105589,8.2
+414,Le Havre,La Longue Vue-Appart vue mer avec balcon-parking,9.6,49.492342,0.0968393999999999,9.6
+415,Le Havre,La Passerelle - Petit Balcon,0.0,49.4909198,0.1162068,0.0
+416,Le Havre,Le Galet Vert charmant T2 en centre ville du Havre,8.9,49.4962706,0.1160827,8.9
+417,Le Havre,Le Havre de Maïa - Centre ville - 4 personnes,9.0,49.4955157,0.1228041,9.0
+418,Le Havre,Les chambres du Chat Perché,9.5,49.4994895141473,0.106418251437162,9.5
+419,Le Havre,Magnifique T2 Centre Ville,9.2,49.4974123,0.1167984,9.2
+420,Le Havre,Odalys City Le Havre Centre Les Docks,8.6,49.4925039,0.129779,8.6
+421,Le Havre,Résidence GABRIELLE,8.7,49.486017,0.1084245,8.7
+422,Le Havre,Vivez l'Atlas-Proche de la plage,9.3,49.4977189,0.0973643,9.3
+423,Le Havre,Voyages Voyages - Proche gare,8.5,49.4956133,0.1233244,8.5
+424,Le Havre,l'Île Enchantée - Centre Historique du Havre,8.3,49.488167,0.11416,8.3
+425,Lille,"1 bedroom apartment near metro, shops & schools",8.4,50.6317414,3.0535001,8.4
+426,Lille,Appartement Cosy - Vieux lille,8.5,50.647328,3.0568329,8.5
+427,Lille,"Appartement une chambre avec parking, Vieux Lille",8.4,50.6400632,3.0568822,8.4
+428,Lille,B&B HOTEL Lille Centre Grand Palais,7.8,50.62813749606027,3.08142364025116,7.8
+429,Lille,Bel appartement bien situé avec balcon et parking,9.1,50.647296,3.0570788,9.1
+430,Lille,Chambre privée Place aux oignons,9.3,50.640496478289,3.061286376057,9.3
+431,Lille,Character apartment in the heart of Old Lille,8.3,50.64083839999999,3.0657605,8.3
+432,Lille,Charming bright flat in Vieux Lille.,8.6,50.6409944,3.0595794,8.6
+433,Lille,Escalille le Royale,8.6,50.63961842882754,3.0587995331699176,8.6
+434,Lille,Holiday Inn Express Lille Centre by IHG,8.1,50.630759375656005,3.0580884218215942,8.1
+435,Lille,Hotel Lille Europe,8.1,50.63788756274342,3.07268500328064,8.1
+436,Lille,Le Napoleon,7.2,50.636353137398906,3.069128394126892,7.2
+437,Lille,Les Cariatides,9.5,50.631062,3.06031,9.5
+438,Lille,Lille Centre - Nice apartment in subplex ! 3pers,6.7,50.6412331,3.060618,6.7
+439,Lille,Lille Centre apartment with character,7.6,50.6352576,3.0522706,7.6
+440,Lille,Lille Hypercentre - Gares - Charmant duplex,0.0,50.6369885,3.0688255,0.0
+441,Lille,Logement forte proximité Gares de Lille,8.1,50.6387932,3.0696112,8.1
+442,Lille,My Little Home - Le Vieux Lille de Rousseau,8.7,50.63965,3.059795,8.7
+443,Lille,My Little Home - Le Vieux Lille de St Etienne,8.9,50.6382023,3.0622442,8.9
+444,Lille,Old Lille apartment with cachet parking,8.3,50.6373005,3.0568127,8.3
+445,Lille,Stay Appart Hotel Lille Centre,9.3,50.63647338451594,3.0606344962951653,9.3
+446,Lille,"Superbe appartement sur la Grand Place, avec vue !",8.3,50.6374549,3.0639252,8.3
+447,Lille,Vieux Lille - Large modern and functional studio,8.4,50.6383471,3.0546183,8.4
+448,Lille,Vieux Lille - center apartment!,8.3,50.637942,3.0593919,8.3
+449,Lille,galerie jacqueline storme,9.4,50.6453748,3.0612643,9.4
+450,Lyon,50m² cosy près place Bellecour & vue s/ basilique,8.4,45.7577714,4.8291972,8.4
+451,Lyon,Bayard Bellecour,8.9,45.75656137877833,4.832611083984375,8.9
+452,Lyon,Best Western Hotel du Pont Wilson,8.5,45.75843134372573,4.841479137539864,8.5
+453,Lyon,Best Western Lyon Saint-Antoine,7.9,45.76109341071765,4.831971377134323,7.9
+454,Lyon,Bikube Lyon,8.4,45.74885,4.863691,8.4
+455,Lyon,Citadines Presqu'île Lyon,8.5,45.7615873580887,4.832626506686211,8.5
+456,Lyon,"Cosy appartement, dans les pentes de la Croix Rousse",9.1,45.771375,4.8345076,9.1
+457,Lyon,"Hotel De Verdun 1882, BW Signature Collection",8.9,45.74958763945291,4.829766601324081,8.9
+458,Lyon,Hotel Saint Vincent,8.5,45.76854481702091,4.827895425260067,8.5
+459,Lyon,Hôtel Silky by HappyCulture,8.0,45.7631258632204,4.834461808204651,8.0
+460,Lyon,Hôtel Vaubecour - Centre Lyon Ainay - Perrache,8.4,45.7536869,4.825845200000003,8.4
+461,Lyon,Hôtel du Parc,7.2,45.76894586397822,4.856868982315064,7.2
+462,Lyon,Jolie chambre à louer - Vue Imprenable,9.4,45.76103621500148,4.866131053967251,9.4
+463,Lyon,Keystone Hôtel & Spa,8.4,45.742544,4.82128,8.4
+464,Lyon,Les Suites de l'Opéra - Apartment Aretha for 4 people,6.0,45.7675937,4.836945300000001,6.0
+465,Lyon,MEININGER Hotel Lyon Centre Berthelot,8.3,45.746083,4.837187,8.3
+466,Lyon,MHL - Maison Hotel Lyon,9.5,45.7677524746546,4.844035327259917,9.5
+467,Lyon,Mercure Lyon Centre Plaza République,7.8,45.7606885984649,4.836836904287338,7.8
+468,Lyon,Nemea Appart Hotel So Cloud Lyon Gare Part-Dieu,7.6,45.75769,4.858226,7.6
+469,Lyon,Okko Hotels Lyon Pont Lafayette,8.4,45.76453599718948,4.841808367459066,8.4
+470,Lyon,Première Classe Lyon Centre Gare Part Dieu,7.4,45.756034577239554,4.859098568558693,7.4
+471,Lyon,Pullman Lyon,9.1,45.760402581312896,4.85792056375427,9.1
+472,Lyon,"Radisson Blu Hotel, Lyon",8.2,45.7610637851169,4.855152368545532,8.2
+473,Lyon,TRIBE Lyon Croix Rousse,8.5,45.78235,4.83378,8.5
+474,Lyon,"The charming, comfortable Charlemagne AIL",8.8,45.7467606,4.8246514,8.8
+475,Marseille,Aparthotel Adagio Access Marseille Prado Périer,8.1,43.278692338557065,5.388060361146927,8.1
+476,Marseille,"Appart design, plein centre Marseille",9.2,43.29156579194989,5.382191605154503,9.2
+477,Marseille,Appartement Vieux-Port de Marseille - Opéra,8.4,43.2933393,5.3765135,8.4
+478,Marseille,Au cœur du Vieux Port - Le quai bourgeois,7.4,43.296336113799,5.373321198148,7.4
+479,Marseille,Charmant appartement dans le quartier des affaires,8.0,43.3103364,5.3701363,8.0
+480,Marseille,Charming 42m near the Old Port,8.8,43.291604,5.374183,8.8
+481,Marseille,"Chic et Bohème à Endoume, à Deux Pas du Vieux-Port",9.0,43.2875039,5.3660878,9.0
+482,Marseille,Holiday Inn Express Marseille Saint Charles by IHG,8.0,43.30272423917592,5.379330441355705,8.0
+483,Marseille,Hotel Le M,8.5,43.288782,5.378967,8.5
+484,Marseille,Hotel Marsiho by Happyculture,8.6,43.29732158640983,5.377538988360584,8.6
+485,Marseille,Hôtel Life Marseille VP - Vieux Port,8.4,43.29443607994325,5.374782085418701,8.4
+486,Marseille,Le Fortia - Nid douillet sur le Vieux-Port de Marseille,8.4,43.293701,5.373222,8.4
+487,Marseille,Le Franklin Roosevelt,8.7,43.2991564,5.3863437,8.7
+488,Marseille,Marseille City Chambres&Appartements,9.4,43.30195653192128,5.372294336557388,9.4
+489,Marseille,Mercure Marseille Canebière Vieux-Port,8.4,43.296986,5.379321,8.4
+490,Marseille,Mouchki,8.3,43.2999265,5.3806062,8.3
+491,Marseille,STUDIO VIEUX-PORT VUE BASILIQUE NOTRE-DAME,8.5,43.2974162,5.3653257,8.5
+492,Marseille,T3 ** BALCON ** VIEUX PORT ** CENTRE,7.8,43.294267,5.3767997,7.8
+493,Marseille,The Babel Community - République - Joliette,8.4,43.301501651773,5.370663509262,8.4
+494,Marseille,The Babel Community Hôtel - Vieux Port,8.0,43.2937579,5.3774478,8.0
+495,Marseille,Toyoko INN Marseille Saint Charles,7.7,43.304229,5.376624,7.7
+496,Marseille,Vintage Vieux-Port Apartment,8.2,43.2932619,5.3737535,8.2
+497,Marseille,easyHotel Marseille Euromed,8.5,43.3101149,5.3703396,8.5
+498,Marseille,ibis Styles Marseille Centre Prado Place Castellane,8.0,43.2840513497387,5.385830104351044,8.0
+499,Marseille,ibis Styles Marseille Vieux Port,7.6,43.29586093016327,5.378317907452583,7.6
+500,Mont Saint Michel,Apparthôtel Mont Saint Michel - Résidence Fleurdumont,8.3,48.596482169806976,-1.5031469166023044,8.3
+501,Mont Saint Michel,Auberge Saint Pierre,8.3,48.63568797869143,-1.5098825097084043,8.3
+502,Mont Saint Michel,Auberge de la Baie,8.2,48.61599317655586,-1.4882531762123108,8.2
+503,Mont Saint Michel,Chez Adèle,8.3,48.636165894011,-1.5104757792319998,8.3
+504,Mont Saint Michel,Gites les 2 Clos au pied du Mont,9.1,48.613966101624456,-1.4857917287392852,9.1
+505,Mont Saint Michel,Hotel Gabriel,8.2,48.61538141368341,-1.510709971189499,8.2
+506,Mont Saint Michel,Hôtel Vert,8.0,48.61470048629041,-1.5096169710159302,8.0
+507,Mont Saint Michel,Hôtel la Croix Blanche,7.8,48.63573406427125,-1.5098610520362854,7.8
+508,Mont Saint Michel,La Jacotière,9.2,48.61411436123917,-1.5043142437934875,9.2
+509,Mont Saint Michel,La Mère Poulard,7.4,48.63508531723403,-1.5105396509170532,7.4
+510,Mont Saint Michel,La Vieille Auberge,7.5,48.636063,-1.511457,7.5
+511,Mont Saint Michel,Le Marquis De La Guintre,8.8,48.6248647057706,-1.44534185528755,8.8
+512,Mont Saint Michel,Le Mouton Blanc,7.2,48.63602298444712,-1.509895920753479,7.2
+513,Mont Saint Michel,"Le Petit Moulin Rouge, B&B, SDB en-suite, parking privé gratuit",9.6,48.5963383,-1.5055117,9.6
+514,Mont Saint Michel,Le Relais Du Roy,8.3,48.61626270451236,-1.510905772447586,8.3
+515,Mont Saint Michel,Le Relais Saint Michel,8.2,48.6175872716489,-1.51039615273476,8.2
+516,Mont Saint Michel,Le Saint Aubert,7.7,48.612937834706464,-1.5101051330566406,7.7
+517,Mont Saint Michel,Les Pommiers de Mont Saint Michel,8.0,48.613555,-1.5101,8.0
+518,Mont Saint Michel,Les Terrasses Poulard,7.2,48.63534942564122,-1.5103787183761597,7.2
+519,Mont Saint Michel,Les Vieilles Digues,9.3,48.60418750441497,-1.5115991234779358,9.3
+520,Mont Saint Michel,Maison au pied du Mont Saint Michel,9.2,48.612673580235,-1.485530645404,9.2
+521,Mont Saint Michel,Maison au pied du Mont Saint Michel 2,9.1,48.6156117,-1.4885121,9.1
+522,Mont Saint Michel,Mercure Mont Saint Michel,8.2,48.61424652959294,-1.510545015335083,8.2
+523,Mont Saint Michel,Vent des Grèves,9.2,48.615403,-1.49144,9.2
+524,Mont Saint Michel,gites 2 beauvoir,8.8,48.5976913,-1.5047171,8.8
+525,Nimes,Ambiance nature aux portes des Halles de Nîmes,9.5,43.8410893045629,4.36067721511577,9.5
+526,Nimes,Appart'City Collection Nîmes Arènes,8.8,43.8338735348897,4.361433959524561,8.8
+527,Nimes,Appartement Cosy Nîmes-Centre,9.3,43.8403329,4.370304,9.3
+528,Nimes,Appartement Cosy Nîmes-Centre 2,9.4,43.8403329,4.370304,9.4
+529,Nimes,B&B HOTEL Nîmes Centre Arènes,8.4,43.8281614,4.354790200000025,8.4
+530,Nimes,Best Western Marquis de la Baume,8.3,43.83959475654075,4.3610841035842896,8.3
+531,Nimes,Comfort Aparthotel Nimes Centre,7.9,43.83249328044521,4.367856681346893,7.9
+532,Nimes,Hotel Majestic,8.5,43.8343632920283,4.365336745977402,8.5
+533,Nimes,Hôtel De L'Amphithéâtre,8.3,43.83581534027453,4.359140172600746,8.3
+534,Nimes,L'Amazonien - Baby-foot et filet de détente !,8.7,43.8402154336462,4.362291753967624,8.7
+535,Nimes,L'élégance de la pierre au pied de la Maison Carrée - Une Nuit à Nîmes,8.3,43.83764693778527,4.356423185319507,8.3
+536,Nimes,La Cathédrale de Bois,9.5,43.8315282,4.3600183,9.5
+537,Nimes,Le LUTZ,9.5,43.831888,4.3522837,9.5
+538,Nimes,Le bleu Jean Denim Arènes - Une Nuit à Nîmes,8.6,43.8350985,4.355139,8.6
+539,Nimes,Les Copains d'Abord,9.0,43.83172268679,4.357071383575,9.0
+540,Nimes,Logis NIMOTEL Hôtel Cosy,7.9,43.8155763492052,4.346603527665138,7.9
+541,Nimes,Maison Albar Hotels L’Imperator,9.2,43.83866612768399,4.352767914533615,9.2
+542,Nimes,Mas d'Escattes,9.8,43.870408383047945,4.404552387779193,9.8
+543,Nimes,Nîmes Centre - A 5 minutes des Arènes,9.4,43.833059723729,4.355228226984,9.4
+544,Nimes,Odalys City Nîmes Arènes,8.6,43.834061872209,4.358990652779,8.6
+545,Nimes,Royal Hôtel,8.3,43.83881509620307,4.3548184633255005,8.3
+546,Nimes,SQUARE HOTEL,8.6,43.837032,4.363037,8.6
+547,Nimes,T3 Cosy et lumineux avec garage à 2 pas du centre !,9.4,43.829167376758,4.359067865827,9.4
+548,Nimes,ibis Styles Nimes Gare Centre,8.2,43.83175754591007,4.36697356402874,8.2
+549,Nimes,ibis budget Nimes Centre Gare,8.1,43.832055902146784,4.3673644959926605,8.1
+550,Paris,9Hotel Republique,8.9,48.87086130670431,2.3605676245369978,8.9
+551,Paris,Beautiful flat Seine River-Saint Michel/Notre-Dame,9.0,48.8539481,2.3429847,9.0
+552,Paris,Beaux 2-pièces Gare du Nord/Gare de l'Est,9.4,48.881583547281,2.358363615869,9.4
+553,Paris,Best Western Bretagne Montparnasse,8.4,48.8354867367116,2.321087121963501,8.4
+554,Paris,Citadines Austerlitz Paris,8.2,48.83491338973583,2.3604049533605576,8.2
+555,Paris,District Nation,8.6,48.8513107,2.39241259999994,8.6
+556,Paris,Garden Saint Martin,7.8,48.87123755351854,2.362460196018219,7.8
+557,Paris,HOTEL FORMIO,7.9,48.8359896,2.3585188,7.9
+558,Paris,Hotel Flanelles Paris,8.4,48.87952665101315,2.3566058277538104,8.4
+559,Paris,Hotel France Albion,8.7,48.87749886295781,2.338321655988693,8.7
+560,Paris,Hotel Vacances Bleues Provinces Opera,8.4,48.8717002212834,2.349541336297989,8.4
+561,Paris,Hôtel Gabriel Paris,8.6,48.86613689815127,2.3684589564800262,8.6
+562,Paris,Hôtel Ginette à la Folie & SPA,9.2,48.8658341,2.3674538,9.2
+563,Paris,Hôtel Gérando,8.3,48.88253133443644,2.345811054110527,8.3
+564,Paris,Hôtel Le Regent Paris,8.3,48.85383851330455,2.338723093162116,8.3
+565,Paris,Hôtel Maison Traversière,8.6,48.84719146716876,2.372636497020721,8.6
+566,Paris,Hôtel Paris Voltaire,8.4,48.85836979456505,2.3777836561203003,8.4
+567,Paris,Hôtel de France Gare de Lyon Bastille,8.6,48.84747299663413,2.371901571750641,8.6
+568,Paris,New Hotel Opéra,8.7,48.8797020647293,2.3286931961774826,8.7
+569,Paris,Star Champs-Elysées,8.5,48.87715091049038,2.293667569756508,8.5
+570,Paris,Stunning architect studio near Le Marais,9.2,48.8681559,2.3700793,9.2
+571,Paris,Sublim by Sweett,8.0,48.845227,2.310079,8.0
+572,Paris,Unforgettable Stay in the Heart of Paris,8.7,48.8544116,2.3391769,8.7
+573,Paris,Vintage Paris Gare du Nord by Hiphophostels,8.0,48.88177861262628,2.347164899110794,8.0
+574,Paris,WS Tour Eiffel - Laos,8.3,48.8500942,2.3008671,8.3
+575,Rouen,"Ambiance Jungle et Cocon en hyper centre pour 2, 4 ou 6 pers - MyLittleStay",8.6,49.4479889,1.1009077,8.6
+576,Rouen,Aparthotel Adagio Access Rouen Centre Cathédrale,8.5,49.439067,1.089627,8.5
+577,Rouen,B&B HOTEL Rouen Centre Rive Droite,8.1,49.44318543731502,1.079113706946373,8.1
+578,Rouen,B&B HOTEL Rouen Centre Rive Gauche,7.8,49.4317818,1.0824082000000317,7.8
+579,Rouen,Cosy'Appart - LE GERVAIS,7.9,49.44621076089,1.086469309856,7.9
+580,Rouen,DOMITYS Les Mosaïques,8.8,49.4290146,1.0832807,8.8
+581,Rouen,Grand Studio de charme Rouen centre,8.6,49.4462748,1.0991111,8.6
+582,Rouen,Hotel Dandy Rouen centre,8.0,49.44527729309288,1.086762696504593,8.0
+583,Rouen,Hotel De Quebec,8.2,49.43783418793873,1.0972528159618378,8.2
+584,Rouen,Hotel Morand,8.0,49.44569975167499,1.0945229977369308,8.0
+585,Rouen,Hyatt Place Rouen,8.5,49.45328564064136,1.09828529731665,8.5
+586,Rouen,"Hôtel Littéraire Gustave Flaubert, BW Signature Collection",8.6,49.44263508189676,1.0868579149246216,8.6
+587,Rouen,Le Bohème,7.6,49.4414822,1.096959,7.6
+588,Rouen,Le Charmant F2 rue du Gros Horloge à Rouen!,8.2,49.4422289,1.0893793,8.2
+589,Rouen,Le Garden Studio avec terrasse et parking centre ville,7.9,49.44636844979284,1.0827518803730165,7.9
+590,Rouen,"Le Saint-André, Gare de Rouen",9.2,49.4469247,1.0884892,9.2
+591,Rouen,Magnifique duplex pour huit personnes -070,5.9,49.4372292,1.1004456,5.9
+592,Rouen,Martin beau F2 confortable,8.5,49.4392119,1.1017201,8.5
+593,Rouen,Mercure Rouen Centre Cathédrale,8.4,49.44117284656542,1.0951754450798037,8.4
+594,Rouen,Mercure Rouen Centre Champ de Mars,8.1,49.435557560716006,1.1037424206733704,8.1
+595,Rouen,Novotel Rouen Centre Cathédrale,8.4,49.4388505,1.0899553,8.4
+596,Rouen,"Radisson Blu Hotel, Rouen Centre",8.9,49.446441,1.09412,8.9
+597,Rouen,Sous les Etoiles - dans le plus haut gratte-ciel avec garage privé,9.2,49.4400384,1.0856876,9.2
+598,Rouen,l'Exotique - Vue Place du Vieux Marché,9.2,49.4425172,1.0888207,9.2
+599,Rouen,"l'Olympe - Babyfoot, Vidéoprojecteur & Parking",8.9,49.4416689,1.1013596,8.9
+600,Strasbourg,AC Hotel by Marriott Strasbourg,8.6,48.59900335,7.761959941,8.6
+601,Strasbourg,Adonis Hotel Strasbourg,7.7,48.58866403246287,7.757167965282861,7.7
+602,Strasbourg,Aparthotel Adagio Strasbourg Place Kleber,8.2,48.58424797313473,7.745836079120636,8.2
+603,Strasbourg,Carpe Diem Home - Au pied de la Cathédrale,9.3,48.582077,7.749161,9.3
+604,Strasbourg,Château de Pourtalès,9.0,48.60808508242673,7.800015360116959,9.0
+605,Strasbourg,Citadines Eurometropole Strasbourg,8.5,48.60427412195041,7.7044611217040915,8.5
+606,Strasbourg,Citadines Kléber Strasbourg,8.2,48.58384564227026,7.743424773216248,8.2
+607,Strasbourg,City Residence Access Strasbourg,7.1,48.590014,7.73987,7.1
+608,Strasbourg,EtC...Hôtel - Strasbourg Hyper Centre,7.7,48.58081452851831,7.746186107397079,7.7
+609,Strasbourg,Hotel Arok,8.9,48.584163,7.735927,8.9
+610,Strasbourg,Hotel Strasbourg - Montagne Verte & Restaurant Louisiane,8.3,48.57269177356032,7.728713527321815,8.3
+611,Strasbourg,Hotel Suisse,8.7,48.58149369478856,7.75279775261879,8.7
+612,Strasbourg,Hotel des Tonneliers,7.7,48.57977291548981,7.749512046575546,7.7
+613,Strasbourg,Hôtel De L'Ill,8.3,48.58068765516625,7.755071595311165,8.3
+614,Strasbourg,Hôtel Le Bristol Strasbourg Gare,8.2,48.58389310594573,7.735748291015625,8.2
+615,Strasbourg,Hôtel Tandem - Boutique Hôtel,9.0,48.58383632696426,7.734948992729187,9.0
+616,Strasbourg,Hôtel le Grillon,8.3,48.58389842897197,7.737652659416199,8.3
+617,Strasbourg,Ibis Budget Strasbourg Centre Republique,8.0,48.591522,7.754599,8.0
+618,Strasbourg,Ibis Styles Strasbourg Centre République,8.2,48.59117448165584,7.753295302391052,8.2
+619,Strasbourg,Les toits de Gutenberg,9.5,48.58175507808,7.748999784273,9.5
+620,Strasbourg,Okko Hotels Strasbourg Centre,8.3,48.5740800171579,7.765449454344889,8.3
+621,Strasbourg,Residence Inn by Marriott Strasbourg,9.0,48.59899457007954,7.762173176616698,9.0
+622,Strasbourg,Strasbourg Centre Epine,9.2,48.5799874,7.7485332,9.2
+623,Strasbourg,ibis Strasbourg Centre Petite France,7.5,48.58253971270566,7.73732671705784,7.5
+624,Strasbourg,ibis Styles Strasbourg Stade de la Meinau,7.8,48.5561877,7.746247899999957,7.8
+625,Uzes,"""La Suite"" 3 Etoiles",9.6,44.0114872,4.4198868,9.6
+626,Uzes,Appartement Ulysse,9.0,44.0132239,4.4222682,9.0
+627,Uzes,"Appartement moderne central avec piscine, garage privé et terrasse sud",8.5,44.0127652,4.4143231,8.5
+628,Uzes,Boutique Hôtel Entraigues,8.9,44.01246437098573,4.421800111045059,8.9
+629,Uzes,Guest House vue splendide,8.8,44.0115749,4.4207409,8.8
+630,Uzes,Hôtel Le Saint-Geniès,9.0,44.023394710582856,4.419290721416473,9.0
+631,Uzes,"La Casita - Studio Confort avec Parking privé - Lit douillet - Centre Uzès, Pont du Gard",8.8,44.0121521,4.4169701,8.8
+632,Uzes,"La Casita - Studio Confort et Design - Emplacement Parfait - Uzès, Pont du Gard",8.7,44.0142503,4.4199672,8.7
+633,Uzes,La DAME de FLAUX,9.8,44.0120504,4.4192438,9.8
+634,Uzes,La Taverne,8.6,44.014659,4.4200515,8.6
+635,Uzes,La bohème place aux herbes,9.6,44.011676381472,4.419088375741,9.6
+636,Uzes,La petite hostellerie,9.0,44.0108258,4.4177601,9.0
+637,Uzes,Le Cerisier au cœur d'Uzès,10.0,44.0103176,4.416918,10.0
+638,Uzes,Le Joubert Hôtel Particulier,9.1,44.0125143,4.4185536,9.1
+639,Uzes,Le Pré Aux Cigales,9.8,44.0154451458477,4.40986999921734,9.8
+640,Uzes,Le trente trois,8.9,44.0096419476156,4.41788524389267,8.9
+641,Uzes,"Les Canisses, magnifique appartement avec terrasse au cœur d'Uzès",9.8,44.0135452,4.4170735,9.8
+642,Uzes,Les Olivettes le mazet,9.6,43.997428,4.412575,9.6
+643,Uzes,Maison de Roche-Uzès Centre Historique L' Ucetia,9.3,44.0112246,4.4199226,9.3
+644,Uzes,RAVISSANT STUDIO,8.8,44.0141777,4.4220873,8.8
+645,Uzes,Secret d'Uzès - Le Loft - Avec piscine chauffée,10.0,44.008072891557,4.324984612995,10.0
+646,Uzes,Une chambre à Uzès,9.2,44.011832299958,4.4185004987420005,9.2
+647,Uzes,Uzès la Tour Médiévale Centre Historique,9.4,44.0124278,4.4192465,9.4
+648,Uzes,"Uzès, au cœur du centre médiéval Le Logis du Consul un bien d'exception du XVIème siècle",9.0,44.0124278,4.4192465,9.0
+649,Uzes,appartement en résidence très bien situé,8.6,44.0119373,4.4131642,8.6
